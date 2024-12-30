@@ -3,28 +3,28 @@
   <HandlingData>
   <Item type="CHandlingData">
       <handlingName>b22</handlingName>
-       <fMass value="1400.0" />
-			<fInitialDragCoeff value="3.2" />
+       <fMass value="900.0" />
+			<fInitialDragCoeff value="6.5" />
 			<fDownforceModifier value="0.0" />
 			<fPercentSubmerged value="85.0" />
 			<vecCentreOfMassOffset x="0.0" y="0.029999999329448" z="0.0" />
 			<vecInertiaMultiplier x="1.2000000476837" y="1.1000000238419" z="1.8999999761581" />
 			<fDriveBiasFront value="0.3" />
 			<nInitialDriveGears value="6" />
-			<fInitialDriveForce value="0.23" />
+			<fInitialDriveForce value="0.3" />
 			<fDriveInertia value="1.0" />
-			<fClutchChangeRateScaleUpShift value="2.0" />
-			<fClutchChangeRateScaleDownShift value="1.4" />
-			<fInitialDriveMaxFlatVel value="230.0" />
-			<fBrakeForce value="0.8" />
-			<fBrakeBiasFront value="0.4" />
-			<fHandBrakeForce value="0.8" />
-			<fSteeringLock value="43.0" />
-			<fTractionCurveMax value="2.6" />
-			<fTractionCurveMin value="2.15" />
-			<fTractionCurveLateral value="22.5" />
+			<fClutchChangeRateScaleUpShift value="1.8" />
+			<fClutchChangeRateScaleDownShift value="1.8" />
+			<fInitialDriveMaxFlatVel value="140.0" />
+			<fBrakeForce value="0.5" />
+			<fBrakeBiasFront value="0.55" />
+			<fHandBrakeForce value="1.2" />
+			<fSteeringLock value="50.0" />
+			<fTractionCurveMax value="2.05" />
+			<fTractionCurveMin value="1.75" />
+			<fTractionCurveLateral value="20.5" />
 			<fTractionSpringDeltaMax value="0.15" />
-			<fLowSpeedTractionLossMult value=".21" />
+			<fLowSpeedTractionLossMult value="1.0" />
 			<fCamberStiffnesss value="0.0" />
 			<fTractionBiasFront value="0.485" />
 			<fTractionLossMult value="1.4" />
@@ -48,7 +48,7 @@
 			<fSeatOffsetDistX value="0.0" />
 			<fSeatOffsetDistY value="0.0" />
 			<fSeatOffsetDistZ value="0.0" />
-			<nMonetaryValue value="240000" />
+			<nMonetaryValue value="100000" />
       <strModelFlags>440010</strModelFlags>
       <strHandlingFlags>20002</strHandlingFlags>
       <strDamageFlags>20</strDamageFlags>

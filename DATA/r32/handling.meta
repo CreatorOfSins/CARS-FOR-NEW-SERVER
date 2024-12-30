@@ -3,28 +3,28 @@
   <HandlingData>
  <Item type="CHandlingData">
       <handlingName>R32</handlingName>
-      <fMass value="1400.0" />
-			<fInitialDragCoeff value="3.2" />
+      <fMass value="1450.0" />
+			<fInitialDragCoeff value="10.25" />
 			<fDownforceModifier value="0.0" />
 			<fPercentSubmerged value="85.0" />
-			<vecCentreOfMassOffset x="0.0" y="0.029999999329448" z="0.0" />
+			<vecCentreOfMassOffset x="0.0" y="0.029999999329448" z="-0.019999999552965" />
 			<vecInertiaMultiplier x="1.0" y="1.3999999761581" z="1.6000000238419" />
-			<fDriveBiasFront value="0.4" />
+			<fDriveBiasFront value="0.24" />
 			<nInitialDriveGears value="6" />
-			<fInitialDriveForce value="0.2" />
+			<fInitialDriveForce value="0.33" />
 			<fDriveInertia value="1.0" />
-			<fClutchChangeRateScaleUpShift value="2.0" />
-			<fClutchChangeRateScaleDownShift value="1.4" />
-			<fInitialDriveMaxFlatVel value="230.0" />
-			<fBrakeForce value="0.8" />
-			<fBrakeBiasFront value="0.4" />
-			<fHandBrakeForce value="0.8" />
-			<fSteeringLock value="43.0" />
-			<fTractionCurveMax value="2.6" />
-			<fTractionCurveMin value="2.15" />
+			<fClutchChangeRateScaleUpShift value="6.0" />
+			<fClutchChangeRateScaleDownShift value="6.0" />
+			<fInitialDriveMaxFlatVel value="148.0" />
+			<fBrakeForce value="1.0" />
+			<fBrakeBiasFront value="0.55" />
+			<fHandBrakeForce value="0.7" />
+			<fSteeringLock value="40.0" />
+			<fTractionCurveMax value="2.7" />
+			<fTractionCurveMin value="2.55" />
 			<fTractionCurveLateral value="22.5" />
 			<fTractionSpringDeltaMax value="0.15" />
-			<fLowSpeedTractionLossMult value="0.9" />
+			<fLowSpeedTractionLossMult value="1.0" />
 			<fCamberStiffnesss value="0.0" />
 			<fTractionBiasFront value="0.485" />
 			<fTractionLossMult value="1.4" />
