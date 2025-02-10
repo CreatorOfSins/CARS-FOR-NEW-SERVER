@@ -1,0 +1,86 @@
+======================================
+
+         UPDATE 25/01/2025
+
+======================================
+- Fix BF400 engie sound
+- Fix hvpolice2 unbreakable galsses
+
+======================================
+
+         UPDATE 15/11/2024
+
+======================================
+- Fix (hvscout) paint
+- Fix (hvdominator9) you can now add your livery into YTD
+
+
+======================================
+
+         UPDATE 09/11/2024
+
+======================================
+- YTD with liveries UPDATED
+
+======================================
+
+======================================
+
+         UPDATE 30/10/2024
+
+======================================
+- Fix Missed liveries in policebati
+- Fix some vehicles were not have tuning
+
+======================================
+
+         UPDATE 30/9/2024
+
+======================================
+- Add More Emergency lights on Front Bumper 
+- https://discord.com/channels/1135348557130510409/1283504140416188458 Inclluded with the pack now
+- Police Bus Included with the pack now https://discord.com/channels/1135348557130510409/1139126230969503794/1197272789741219860
+- Fix Pushbars textures 
+- Fix Vehicle Dashboard (  hvpolice2 - hvpolice4 -hvalamor )
+- Fix ( hvbuffalo4- hvpolice4) Interior textures
+- Removed all badges from Pushbar
+- Fix (hvkomoda) headlights
+- Add Trunk callsigns to ( hvbuffalo4 - hvbuffalo )
+- Fix missed callsigns in ( hvcoquette4 )
+- Add Vehicle Template of ( policebikerb - policebati )
+- Fix Dirty textures in ( hvbuffalo4 - hvkomoda - hvpolice4 )
+- Add SASP & SAHP liveries to the Air-Unit
+- (policebati) Remasterd 
+  - add more lights
+    - fix wheel bug 
+      - add ( sahp & sasp ) livery
+- Offroad Bike
+  - Replaced with new one
+  - Add ( SAHP & SASP ) Liveries
+
+
+
+======================================
+
+         UPDATE 19/3/2027
+
+======================================
+1 - Add option to put your livery in YTD
+2 - Make antenna as extra ( EXTRA 6 )
+3 - make Spotlight in all cars in extra_7 and fix it ( now you can remove it )
+4 - Removed Siren folder from the pack ( you don't need it now )
+5 - Fix bug in top light bar in ( hvcoquette4 )
+6 - fix interior bug in ( hvpolice2 - hvpolice4 )
+7 - make all police equipment as extra ( extra_5 )
+8 - fix hvbuffalo4 engine sound
+9 - add new engine sound for ( hvGauntlet4 ) you need to download the new engine sound
+10- full optmized ( the size of the pack now 170mb  ( it was 280 mb )
+11 - Organizing extras in all cars
+ extra_1  = top light
+ extra_2 = rear light
+ extra_3 = front light
+ extra_4 = pushbar
+ extra_5 = police equipment
+ extra_6 = police antenna 
+ extra_7 = spot light
+12 - fix some bugs

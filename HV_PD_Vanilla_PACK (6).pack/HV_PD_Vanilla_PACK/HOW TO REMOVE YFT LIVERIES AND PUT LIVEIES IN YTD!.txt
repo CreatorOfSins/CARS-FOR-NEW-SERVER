@@ -1,0 +1,11 @@
+HOW TO REMOVE YFT LIVERIES AND PUT LIVEIES IN YTD!
+
+1- open the data folder of the Vehicle
+2- open carcols.meta
+3- you will find these two lines
+        <!-- Livery-->  
+         .............
+         <!-- Livery-->
+
+4- remove any thing between these lines  
+5- and replace Folder ( YTD with liveries ) 
